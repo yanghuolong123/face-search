@@ -4,8 +4,8 @@ namespace App\Services;
 
 class FaceTencentService {
 
-    const APP_ID = '2156926534';
-    const APP_KEY = 'SOZYLufvRmtozS6i';
+    const APP_ID = '****';
+    const APP_KEY = '*****';
 
     private static $_client;
 

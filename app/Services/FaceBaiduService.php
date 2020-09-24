@@ -4,9 +4,9 @@ namespace App\Services;
 
 class FaceBaiduService {
 
-    const APP_ID = '22731302';
-    const API_KEY = 'ZFvjYZaZpcfTz6v4uu7rKBWu';
-    const SECRET_KEY = 'UH3tB6VTRYhQ1dTWE7dtGv7xdkOxbash';
+    const APP_ID = '****';
+    const API_KEY = '****';
+    const SECRET_KEY = '*****';
 
     private static $_client;
 

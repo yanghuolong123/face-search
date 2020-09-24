@@ -13,9 +13,9 @@ use TencentCloud\Iai\V20200303\Models\SearchFacesRequest;
 
 class FaceTencentCloudService {
 
-    const APP_ID = '1303250656';
-    const SecretId = 'AKIDFDvNYdM1Qf7JSPCUbRzlMittVsynf4Sd';
-    const SecretKey = '9xUkiQtUp191lERdXAZnmdDVzF0YkMia';
+    const APP_ID = '*****';
+    const SecretId = '*******';
+    const SecretKey = '*********';
 
     public static function getImgDir() {
         $con = '/work/tmp/img/2020-09-22/0';
